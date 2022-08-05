@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body {
+  background: #000;
+  font-family: 'Oswald', serif;
+}
+
+.clock-container {
+  font-size: 8em;
+  text-align: center;
+  margin: 250px auto 0;
+}
+
+.clock-span {
+  padding: 60px 75px;
+  background: #008fac;
+  border-radius: 20px;
+  box-shadow: -10px 10px 20px 0px #FFF;
+}
